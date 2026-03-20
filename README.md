@@ -1,5 +1,5 @@
 # Info
-Real Steel is a high end modding toolkit for Dynasty Warriors 2, meant to replace my Dynasty Warriors 2 2.0 modding toolkit. It's not ready to release but i'll explain the future features.
+Real Steel is a high end modding toolkit for Dynasty Warriors 2, meant to replace my Dynasty Warriors 2 2.0 modding toolkit. It's not ready to release but i'll explain the future features. Real Steel is inspired by Tetsutetsu from My hero Academia.
 
 <img width="1280" height="1007" alt="ts10" src="https://github.com/user-attachments/assets/3e68e32b-cc0e-44fa-810c-05c9d5e6c367" />
 
